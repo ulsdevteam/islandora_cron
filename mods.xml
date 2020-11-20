@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Records of the American Service Institute, ca.1920-1961, bulk: 1941-1961</title>
+  </titleInfo>
+  <titleInfo type="alternative">
+    <title>Survey of Beneficial Fraternal Society</title>
+  </titleInfo>
+  <titleInfo type="alternative">
+    <title>Nationality Fact Sheet</title>
+  </titleInfo>
+  <name type="corporate">
+    <namePart>American Service Institute</namePart>
+  </name>
+  <typeOfResource collection="yes" manuscript="yes">mixed material</typeOfResource>
+  <genre authority="aat">Community organizations-Newsletters.</genre>
+  <genre authority="aat">Community organizations-Minutes.</genre>
+  <genre authority="aat">Community organizations-Reports.</genre>
+  <genre authority="aat">Community organizations-Publications.</genre>
+  <genre authority="aat">Community development.</genre>
+  <genre authority="aat">Community organizations-Naturalization records-Pennsylvania-Pittsburgh.</genre>
+  <genre authority="aat">Community organizations-Immigration records-Pennsylvania-Pittsburgh.</genre>
+  <genre authority="aat">Community organizations-Records-Pennsylvania-Pittsburgh.</genre>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">pau</placeTerm>
+    </place>
+    <dateOther>ca.1920-1961,</dateOther>
+    <dateIssued encoding="marc" point="start">1920</dateIssued>
+    <dateIssued encoding="marc" point="end">1961</dateIssued>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <extent unit="linear ft.">62.5</extent>
+    <note type="arrangement">Organized into 8 series: I. Special Projects and Daily Activities; II. Research on Ethnic and Nationality Groups; III. Alphabetical Subject Files; IV. Individual and Family Case Files; V. Employment Progress Reports; VI. Newsletters and Publications; VII. Additional ASI Files; VIII. Map and Statistics Binders.</note>
+  </physicalDescription>
+  <abstract type="Scope and content">Included in the collection are extensive records in the fields of social work and intercultural relations. The collection also contains publications of health, welfare, and fraternal organizations located in the county, and numerous documents and letters of historical importance. Although the American Service Institute was in existence from 1941 through 1961, the material in the files is not limited to this period but contains materials from the 1920s through 1961. The records include minutes and committees, unpublished studies and reports, ASI community projects, files on individual immigration and naturalization cases closed prior to 1953, ASI publications such as the Survey of Beneficial Fraternal Society, newsletters, Nationality Fact Sheet, ASI Programs such as "Analysis of Immigration and Naturalization Steps" and "East Liberty Interagency Meetings," general information on such local organizations as the Urban League, National Conference of Christians and Jews Committee on Human Relations, material (such as newsletters) on local community and committee projects, the aged population, youth immigration records, customs and traditions of cultural groups.</abstract>
+  <note type="preferred citation">Records of the American Service Institute, 1920-1961, AIS 1963:01, Archives Service Center, University of Pittsburgh.</note>
+  <note type="acquisition">Gift of Otto Von Mering, 7 October 1963.</note>
+  <note type="biographical/historical">The American Service Institute was founded in 1941 as a result of research published by Philip Klein and collaborators entitled A Social Study of Pittsburgh: Community Problems and Social Services of Allegheny County. The study recommended that an advisory agency be formed to act as an interpreter between existing social and civic agencies. The American Service Institute (ASI) was formed from the combination of 3 organizations the, International Institute of Pittsburgh, International Institute of McKeesport and the American Citizenship League. The organizations focused on a combination of naturalization procedures for individuals as well as community related group work. The ASI was a product of the three earlier organizations with the stated purpose, "to assist in the ethnic, cultural and economic assimilation into the community of new Americans residing in Allegheny County; to encourage their participation in community life, as individuals or as groups; to cooperate with individuals and with nationality organizations in relating themselves to public and private social and civic agencies; and to give technical assistance to residents of Allegheny County who desire to become naturalized citizens of the United States." To fulfill these objectives, ASI worked through the organized structure of the community (i.e., social agencies, schools, churches, civic groups) to promote better understanding and appreciation among people of all cultural and national backgrounds, as well as encourage fuller participation in community life. The organization was supported almost solely by the Community Chest of Allegheny County, only a fraction of the ASI budget came from fees for services. ASI did not intend for itself to be an agency that provided individual service, but in their first year they assisted 1,140 people with the naturalization process. After those initial months government funds for naturalization programs made it possible to lessen the number of individual cases for which ASI was responsible. In 1960 a study was requested by the Community Chest of Allegheny County and the Allegheny County Health and Welfare Association to assess the role of the American Service Institute. As a result of the study the ASI was asked to terminate its services to the community and its contract with the Community Chest expired on December 31, 1961. All active immigration and naturalization case files were transferred to the Community Chest Information Services, which later became part of the Pittsburgh Chapter of the United Way.</note>
+  <note xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://digital.library.pitt.edu/cgi-bin/f/findaid/findaid-idx?type=simple;c=ascead;view=text;subview=outline;didno=US-PPiU-ais196301">Finding aid available in repository and on Internet; Folder level control; http://digital.library.pitt.edu/cgi-bin/f/findaid/findaid-idx?type=simple;c=ascead;view=text;subview=outline;didno=US-PPiU-ais196301</note>
+  <subject>
+    <geographicCode authority="marcgac">n-us-pa</geographicCode>
+  </subject>
+  <subject authority="lcsh">
+    <name type="corporate">
+      <namePart>American Service Institute.</namePart>
+    </name>
+  </subject>
+  <subject authority="lcsh">
+    <name type="corporate">
+      <namePart>Pittsburgh Urban League.</namePart>
+    </name>
+  </subject>
+  <subject authority="lcsh">
+    <name type="corporate">
+      <namePart>National Conference of Christians and Jews.</namePart>
+      <namePart>Committee on Human Relations.</namePart>
+    </name>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Neighborhoods</topic>
+    <geographic>Pennsylvania</geographic>
+    <geographic>Pittsburgh</geographic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Immigrants</topic>
+    <geographic>Pennsylvania</geographic>
+    <geographic>Pittsburgh</geographic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Community life</topic>
+  </subject>
+  <subject authority="lcsh">
+    <geographic>Pittsburgh (Pa.)</geographic>
+    <topic>Social conditions</topic>
+  </subject>
+  <subject authority="lcsh">
+    <geographic>Pittsburgh (Pa.)</geographic>
+    <topic>Emigration and immigration</topic>
+  </subject>
+  <name>
+    <namePart>University of Pittsburgh</namePart>
+    <role>
+      <roleTerm type="text">depositor</roleTerm>
+    </role>
+  </name>
+  <location>
+    <physicalLocation>University of Pittsburgh</physicalLocation>
+  </location>
+  <identifier type="oclc">ocm30264889</identifier>
+  <identifier type="oclc">30264889</identifier>
+  <relatedItem>
+    <location>
+      <url displayLabel="Finding aid">http://digital.library.pitt.edu/cgi-bin/f/findaid/findaid-idx?type=simple;c=ascead;view=text;subview=outline;didno=US-PPiU-ais196301</url>
+    </location>
+  </relatedItem>
+  <recordInfo>
+    <descriptionStandard>aacr</descriptionStandard>
+    <descriptionStandard>appm</descriptionStandard>
+    <recordContentSource authority="marcorg">PIT</recordContentSource>
+    <recordCreationDate encoding="marc">940419</recordCreationDate>
+    <recordChangeDate encoding="iso8601">20170109131224.0</recordChangeDate>
+    <recordIdentifier>1404750</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+                                (Revision 1.106 2014/12/19)</recordOrigin>
+  </recordInfo>
+<identifier type="pitt">US-PPiU-ais196301</identifier></mods>
